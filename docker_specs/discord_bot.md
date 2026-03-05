@@ -45,7 +45,7 @@ Python製のDiscord Bot。主にVOICEVOX APIを呼び出してボイスチャン
 
 | リソース | 設定値 | 備考 |
 | :--- | :--- | :--- |
-| CPU | `cpuset-cpus: "12-15"` | Eコア（軽負荷） |
+| CPU | `cpuset-cpus` (実機確認後に設定) | Eコア（軽負荷） |
 | GPU | なし | |
 | メモリ | `mem_limit: 512m`（暫定） | 実測後に調整 |
 
