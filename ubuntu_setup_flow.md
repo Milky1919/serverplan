@@ -7,6 +7,9 @@
 ## 1. OSインストールと初期設定
 
 ### 1.1 Ubuntu 24.04 LTS のインストール
+
+> 📖 **詳細な手順書:** [`ubuntu_install_guide.md`](./ubuntu_install_guide.md) を参照してください。
+
 1. Ubuntu Server 24.04 LTS のインストールメディアを作成し、インストールを開始します。
 2. インストール時、「**Ubuntu Server (minimized)**」を選択し、余計なパッケージを入れないようにします。
 3. インストール時の選択項目で「**Install OpenSSH server**」に必ずチェックを入れ、外部からSSH接続できるようにします。
